@@ -66,4 +66,10 @@ K absolute pressure sensor
 F http://www.nxp.com/files/sensors/doc/data_sheet/MPXA6115A.pdf
 $ENDCMP
 #
+$CMP NPA201
+D Digital Output I2C Absolute Pressure Sensor, 1,7..3,6V, 260 to 1260 mBar, accuracy: absolute 0.2mbar, relative 0.1 mbar
+K digital high accuracy pressure sensor i2c hclga
+F https://www.amphenol-sensors.com/en/products/pressure-mems/mems-sensors/3236-npa-201
+$ENDCMP
+#
 #End Doc Library
